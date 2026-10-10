@@ -1,0 +1,51 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "references\\capabilities\\mao-anti-baguwen.md": "4b12b0bbf2ac64fe5e487eeb969e19932b09c3874c3410166e0bdb1fe6494ee7",
+    "references\\capabilities\\mao-contradiction-nature.md": "7dcdebe8d7df8e4c14553b95874057709f4493104a4e698aaf368005af6b8dee",
+    "references\\capabilities\\mao-criticize-cure.md": "bf1ec46f761fbde7eed5415ebae2c9fb7e994a4e731b25dbd164dd951f569e1e",
+    "references\\capabilities\\mao-draw-line.md": "acd6048c37176c3668e73e00fe7c1057bf6c65c174e52b63d0fd8cf5552fc070",
+    "references\\capabilities\\mao-drop-baggage.md": "789210a3e628d597bb94b7c10cef6724a131f7d8227eb20bccb0c599b07fa70d",
+    "references\\capabilities\\mao-focus-force.md": "8f9f2304002f7fd9cea80e9f5c931baa0c9613b81f75701a76f9946291f60745",
+    "references\\capabilities\\mao-long-game.md": "cc8f0c5cacfff5459f94ea64a50da8e11916ec45b2276213329c549c06cfbdfb",
+    "references\\capabilities\\mao-main-contradiction.md": "185566b1e277cc9d2563041611ca84b9a7b4f919d6d34fae62292d2d7284d55c",
+    "references\\capabilities\\mao-mass-line.md": "677c2761847edf764b53052bf7a5828b2eefea9503b526c23b38baeb95c4bcf6",
+    "references\\capabilities\\mao-no-book-worship.md": "4eeb8b0db0e2b962b2c9e414145a2b82e68213e642281f6a26d5911389ee69af",
+    "references\\capabilities\\mao-piano.md": "4cc0fbefe324a45f0ce7056e4ac78ce7f4d2b36ca98575180cdc1b73248c89c6",
+    "references\\capabilities\\mao-pilot.md": "08de5738a60e57daf37558ba4046318093d6ac005c830bf768cdd7a8730bfb53",
+    "references\\capabilities\\mao-practice-spiral.md": "cd1711c1790074333a0cb4307e72e7b95e9609c4a1a774d503cb0a445b187f04",
+    "references\\capabilities\\mao-quantify.md": "fe80401f862773226dda11bf84f36349aecbfe325b7d86758ad344ae6e782dc7",
+    "references\\capabilities\\mao-report-system.md": "82fe068f523f55c434360d379075455ba85e3788fa8f17d47d7c5cabdd025532",
+    "references\\capabilities\\mao-research.md": "337bf51c80d33afe2a8099ad727ca754e5f9645a2c2182e9962561a59ab4f42b",
+    "references\\capabilities\\mao-shili-youli.md": "3a57fbd47efdd99e8b66deb097fae7b3aeab0116bdefeb879b52acfb233abff5",
+    "references\\capabilities\\mao-six-questions.md": "fdb73e05464011d4b03e7f3267014eeff8918f543461e8807784863a619ab97d",
+    "references\\capabilities\\mao-strategic-despise.md": "511824dceb3a0293c55477678f9a9387f39c599a406127ba8d278b8ab7ec7954",
+    "references\\capabilities\\mao-think-refine.md": "070823600c999a941c2a9a8d89f485f147b4f250f8a4f05bba9fa05482eb1d5c",
+    "references\\capabilities\\mao-united-front.md": "f76afed4cf938ebd2f51eceaf320116fd7a521a9e88e8ec0b3541f33baaa372d",
+    "references\\capability-index.md": "9132a61431bcb61a81dee3cdd61660aacd4664522783e34caa0563020b1106cb",
+    "references\\cheatsheet.md": "5ee7acaeff85d5be1f1e521aec118e65eb88abddeaef05923efc53fc0876579e",
+    "references\\glossary.md": "a2859713167ca9a829fa7b0a57c2302a30e20f24240f681e00aaeb5b355cde11",
+    "references\\overview.md": "47e20ad380b7e6c513e274b7a1848faf89ba332c3224af6196a713cc17f50fe9",
+    "SKILL.md": "b46156f471a7dac5909b6155be542c1eba2d199c128837e5ecd7e02a3a9b8170"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.mao-si-yuan",
+  "bundle_sha256": "6b2e622bef84f3db34590cb008521be05d7997e3c21f6b5d31a6a2f8decc216a",
+  "variant": "single",
+  "run_id": "run-20261009-193019-1369b0",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 7,
+    "capability_count": 21,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 7 个晋级 Skill，共 8 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}
